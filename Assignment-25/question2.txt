@@ -1,0 +1,3 @@
+Q. You have a sorted array of infinite numbers, how would you search an element in the array?
+
+Answer: I will double my search space acording to the target and get more closer to it.
